@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  team_size: 1
+  name: MyString
+  desc: MyString
+  position: MyString
+
+two:
+  team_size: 1
+  name: MyString
+  desc: MyString
+  position: MyString
